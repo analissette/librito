@@ -8,4 +8,10 @@ Vivo en Barcelona
 
 Hola, soy Yasmin
 
-Probando, 1, 2, 3
+
+
+Soy nueva en el mundo de la programacion!
+
+
+
+probando 1 2 3
