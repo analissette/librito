@@ -19,3 +19,5 @@ probando 1 2 3
 Hola soy Taiza
 
 Tambien vivo en Barcelona
+
+hola soy flo estoy en el hemisferio sur ahorita
